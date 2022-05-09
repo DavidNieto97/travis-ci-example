@@ -10,7 +10,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class TravisCiExampleApplicationTests {
 
 	@Test
-	public void contextLoads() {
+	public void testEmptyMethod() {
+		
 	}
 
 }
